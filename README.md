@@ -11,9 +11,6 @@ The Color Palette App is a Flutter application that allows users to select an im
 - Save Colors: Users can save the color palette for later use.
 - Share Colors: Users can share the color palette with others through various means.
 
-## Screenshots
-
-Include some screenshots of your app here to give readers a visual overview of the app's UI.
 
 ## Getting Started
 
