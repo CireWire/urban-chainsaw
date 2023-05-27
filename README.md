@@ -16,7 +16,7 @@ The Color Palette App is a Flutter application that allows users to select an im
 
 To get started with the Color Palette App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/color-palette-app.git`
+1. Clone the repository: `git clone https://github.com/CireWire/urban-chainsaw.git`
 2. Change to the project directory: `cd color-palette-app`
 3. Install the dependencies: `flutter pub get`
 4. Run the app: `flutter run`
